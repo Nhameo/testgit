@@ -1,3 +1,2 @@
-
-  puts 'hello word en mieux'
-
+  puts 'hello word'
+  puts 'Pourvu que ca dur!'
