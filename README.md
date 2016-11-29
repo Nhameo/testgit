@@ -1,7 +1,6 @@
-Cette doc est une super doc!
-
 # testgit
 
+version 1.0
 
 Cette doc s'ameliore sans arrêt !
 
