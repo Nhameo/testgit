@@ -25,5 +25,21 @@ Pusher sur Github
 
   git push origin master
 
+## Les branches
 
+Fabriquer une nouvelle branche
+
+    git branche <nom>
+
+Aller dans une branche
+
+    git checkout <nom de la branche>
+
+Verifier la branche courante
+
+    git status
+
+Pusher sur une branche
+
+    git push origin <nom de la branche>
 
