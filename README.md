@@ -47,3 +47,5 @@ Pusher sur une branche
 ## DRAFT
 
     Ceci est un paragraphe realisé dans la branche Draft que je souhaite voir un jour dans ma branche master.
+
+    Je continue à travailler dans draft c'est rigolo c'est le pied et c'est pas en master!
