@@ -1,3 +1,5 @@
+Cette doc est une super doc!
+
 # testgit
 Apprentissage des commandes git
 
