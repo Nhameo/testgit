@@ -43,3 +43,7 @@ Pusher sur une branche
 
     git push origin <nom de la branche>
 
+
+## DRAFT
+
+    Ceci est un paragraphe realisé dans la branche Draft que je souhaite voir un jour dans ma branche master.
